@@ -265,7 +265,7 @@ yum install -y nodejs
 ##### As root
 
 ```sh
-curl -fsSL https://rpm.nodesource.com/setup_lts.x | bash -
+curl -fsSL https://rpm.nodesource.com/setup_its.x | bash -
 yum install -y nodejs
 ```
 
